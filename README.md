@@ -148,7 +148,7 @@ Add grad-CAM visualization for interpretability.
 
 If you use this repository, please cite:
 
-@software{yourname_vit_adv_training_2025,
+@software{vit_adv_training_2025,
   author = {Ishrak Latif},
   title  = {Adversarially Robust Vision Transformer},
   year   = {2025},
